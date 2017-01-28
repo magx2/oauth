@@ -1,0 +1,4 @@
+rootProject.name = 'OAuth'
+
+include ":oauth-provider"
+include ":oauth-client"
